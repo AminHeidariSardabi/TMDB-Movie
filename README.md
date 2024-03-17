@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Amin Heidari Sardabi](https://github.com/AminHeidariSardabi/TMDB-Movie)
 
 Feel free to contribute to this project by opening issues or pull requests!
 
